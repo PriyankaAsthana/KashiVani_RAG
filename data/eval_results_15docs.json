@@ -1,0 +1,1553 @@
+[
+  {
+    "model": "all-MiniLM-L6-v2",
+    "source_accuracy": 96.1,
+    "keyword_accuracy": 82.4,
+    "detailed_results": [
+      {
+        "question": "What is the Dashashwamedh Ghat known for?",
+        "source_hit": true,
+        "keyword_score": 1.0,
+        "retrieved_sources": [
+          "Varanasi - Wikipedia.pdf",
+          "Varanasi - Wikipedia.pdf",
+          "Varanasi - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What are the four varieties of Banarasi sari?",
+        "source_hit": true,
+        "keyword_score": 1.0,
+        "retrieved_sources": [
+          "Banarasi sari - Wikipedia.pdf",
+          "Banarasi sari - Wikipedia.pdf",
+          "Banarasi sari - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "Where did Buddha give his first sermon?",
+        "source_hit": true,
+        "keyword_score": 1.0,
+        "retrieved_sources": [
+          "Sarnath - Wikipedia.pdf",
+          "Sarnath - Wikipedia.pdf",
+          "Varanasi - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What river flows through Varanasi?",
+        "source_hit": true,
+        "keyword_score": 1.0,
+        "retrieved_sources": [
+          "Varanasi - Wikipedia.pdf",
+          "Varanasi - Wikipedia.pdf",
+          "Varanasi - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What is zari in Banarasi weaving?",
+        "source_hit": true,
+        "keyword_score": 1.0,
+        "retrieved_sources": [
+          "Banarasi sari - Wikipedia.pdf",
+          "Banarasi sari - Wikipedia.pdf",
+          "Varanasi - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "Which year was Sarnath destroyed?",
+        "source_hit": true,
+        "keyword_score": 1.0,
+        "retrieved_sources": [
+          "Sarnath - Wikipedia.pdf",
+          "Sarnath - Wikipedia.pdf",
+          "Sarnath - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What is the Harishchandra Ghat used for?",
+        "source_hit": true,
+        "keyword_score": 1.0,
+        "retrieved_sources": [
+          "Varanasi - Wikipedia.pdf",
+          "Varanasi - Wikipedia.pdf",
+          "Varanasi - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What is the GI tag for Banarasi sari?",
+        "source_hit": true,
+        "keyword_score": 0.33,
+        "retrieved_sources": [
+          "Banarasi sari - Wikipedia.pdf",
+          "Banarasi sari - Wikipedia.pdf",
+          "Banarasi sari - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What are the Buddhist pilgrimage sites mentioned in Sarnath?",
+        "source_hit": true,
+        "keyword_score": 1.0,
+        "retrieved_sources": [
+          "Sarnath - Wikipedia.pdf",
+          "Varanasi - Wikipedia.pdf",
+          "Sarnath - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What causes pollution in the Ganges river?",
+        "source_hit": true,
+        "keyword_score": 0.67,
+        "retrieved_sources": [
+          "Varanasi - Wikipedia.pdf",
+          "Varanasi - Wikipedia.pdf",
+          "Varanasi - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What is Kashi Vishwanath temple dedicated to?",
+        "source_hit": true,
+        "keyword_score": 0.67,
+        "retrieved_sources": [
+          "Kashi Vishwanath Temple - Wikipedia.pdf",
+          "Kashi Vishwanath Temple - Wikipedia.pdf",
+          "Kashi Vishwanath Temple - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What weaving technique is used in Banarasi silk?",
+        "source_hit": true,
+        "keyword_score": 0.67,
+        "retrieved_sources": [
+          "Varanasi - Wikipedia.pdf",
+          "Banarasi sari - Wikipedia.pdf",
+          "Banarasi sari - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What is the Dhamek Stupa?",
+        "source_hit": true,
+        "keyword_score": 1.0,
+        "retrieved_sources": [
+          "Sarnath - Wikipedia.pdf",
+          "Sarnath - Wikipedia.pdf",
+          "Sarnath - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "How old is Varanasi as a city?",
+        "source_hit": true,
+        "keyword_score": 0.0,
+        "retrieved_sources": [
+          "Varanasi - Wikipedia.pdf",
+          "Varanasi - Wikipedia.pdf",
+          "Varanasi - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What is the significance of Manikarnika Ghat?",
+        "source_hit": true,
+        "keyword_score": 1.0,
+        "retrieved_sources": [
+          "Varanasi - Wikipedia.pdf",
+          "Varanasi - Wikipedia.pdf",
+          "Varanasi - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What university is located in Varanasi?",
+        "source_hit": true,
+        "keyword_score": 1.0,
+        "retrieved_sources": [
+          "Varanasi - Wikipedia.pdf",
+          "Banaras Hindu University - Wikipedia.pdf",
+          "Varanasi - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What is Sarnath famous for in Buddhism?",
+        "source_hit": true,
+        "keyword_score": 0.33,
+        "retrieved_sources": [
+          "Sarnath - Wikipedia.pdf",
+          "Sarnath - Wikipedia.pdf",
+          "Sarnath - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What designs are found in Banarasi sari?",
+        "source_hit": true,
+        "keyword_score": 0.0,
+        "retrieved_sources": [
+          "Banarasi sari - Wikipedia.pdf",
+          "Banarasi sari - Wikipedia.pdf",
+          "Banarasi sari - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What is the religious significance of the Ganges in Varanasi?",
+        "source_hit": true,
+        "keyword_score": 0.33,
+        "retrieved_sources": [
+          "Varanasi - Wikipedia.pdf",
+          "Varanasi - Wikipedia.pdf",
+          "Varanasi - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What archaeological findings were made at Sarnath?",
+        "source_hit": true,
+        "keyword_score": 1.0,
+        "retrieved_sources": [
+          "Sarnath - Wikipedia.pdf",
+          "Sarnath - Wikipedia.pdf",
+          "Sarnath - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "When was Banaras Hindu University established?",
+        "source_hit": true,
+        "keyword_score": 0.33,
+        "retrieved_sources": [
+          "Banaras Hindu University - Wikipedia.pdf",
+          "Banaras Hindu University - Wikipedia.pdf",
+          "Banaras Hindu University - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "Who founded Banaras Hindu University?",
+        "source_hit": true,
+        "keyword_score": 0.5,
+        "retrieved_sources": [
+          "Banaras Hindu University - Wikipedia.pdf",
+          "Banaras Hindu University - Wikipedia.pdf",
+          "Banaras Hindu University - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What is the Benares gharana known for in music?",
+        "source_hit": true,
+        "keyword_score": 0.67,
+        "retrieved_sources": [
+          "Benares gharana - Wikipedia.pdf",
+          "Benares gharana - Wikipedia.pdf",
+          "Benares gharana - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What script is used to write Hindi?",
+        "source_hit": true,
+        "keyword_score": 1.0,
+        "retrieved_sources": [
+          "Hindi - Wikipedia.pdf",
+          "Sanskrit - Wikipedia.pdf",
+          "Hindi - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What is the origin of the Sanskrit language?",
+        "source_hit": true,
+        "keyword_score": 0.67,
+        "retrieved_sources": [
+          "Sanskrit - Wikipedia.pdf",
+          "Sanskrit - Wikipedia.pdf",
+          "Sanskrit - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What are the main features of Hindustani classical music?",
+        "source_hit": true,
+        "keyword_score": 0.33,
+        "retrieved_sources": [
+          "Hindustani classical music - Wikipedia.pdf",
+          "Hindustani classical music - Wikipedia.pdf",
+          "Hindustani classical music - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What is the Ramnagar Fort used for today?",
+        "source_hit": true,
+        "keyword_score": 1.0,
+        "retrieved_sources": [
+          "Ramnagar Fort - Wikipedia.pdf",
+          "Ramnagar Fort - Wikipedia.pdf",
+          "Ramnagar Fort - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What is the Tulsi Manas Mandir dedicated to?",
+        "source_hit": true,
+        "keyword_score": 0.67,
+        "retrieved_sources": [
+          "Tulsi Manas Mandir - Wikipedia.pdf",
+          "Tulsi Manas Mandir - Wikipedia.pdf",
+          "Tulsi Manas Mandir - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What language family does Bhojpuri belong to?",
+        "source_hit": true,
+        "keyword_score": 1.0,
+        "retrieved_sources": [
+          "Bhojpuri language - Wikipedia.pdf",
+          "Bhojpuri language - Wikipedia.pdf",
+          "Bhojpuri language - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What is the capital of Uttar Pradesh?",
+        "source_hit": true,
+        "keyword_score": 1.0,
+        "retrieved_sources": [
+          "Uttar Pradesh - Wikipedia.pdf",
+          "Uttar Pradesh - Wikipedia.pdf",
+          "Uttar Pradesh - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What are the four goals of life in Hinduism?",
+        "source_hit": true,
+        "keyword_score": 1.0,
+        "retrieved_sources": [
+          "Hinduism - Wikipedia.pdf",
+          "Hinduism - Wikipedia.pdf",
+          "Hinduism - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What is the Ashvamedha ritual in Hinduism?",
+        "source_hit": true,
+        "keyword_score": 0.33,
+        "retrieved_sources": [
+          "Hinduism - Wikipedia.pdf",
+          "Sanskrit - Wikipedia.pdf",
+          "Hinduism - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "How many speakers does Bhojpuri have worldwide?",
+        "source_hit": true,
+        "keyword_score": 1.0,
+        "retrieved_sources": [
+          "Hindi - Wikipedia.pdf",
+          "Bhojpuri language - Wikipedia.pdf",
+          "Bhojpuri language - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What is Sanskrit's role in Indian classical literature?",
+        "source_hit": true,
+        "keyword_score": 0.67,
+        "retrieved_sources": [
+          "Sanskrit - Wikipedia.pdf",
+          "Sanskrit - Wikipedia.pdf",
+          "Sanskrit - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What gharana style does tabla playing in Varanasi follow?",
+        "source_hit": true,
+        "keyword_score": 0.67,
+        "retrieved_sources": [
+          "Benares gharana - Wikipedia.pdf",
+          "Benares gharana - Wikipedia.pdf",
+          "Benares gharana - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What are the sacred texts of Hinduism?",
+        "source_hit": true,
+        "keyword_score": 0.67,
+        "retrieved_sources": [
+          "Hinduism - Wikipedia.pdf",
+          "Hinduism - Wikipedia.pdf",
+          "Hinduism - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What is the population of Uttar Pradesh?",
+        "source_hit": true,
+        "keyword_score": 0.67,
+        "retrieved_sources": [
+          "Varanasi - Wikipedia.pdf",
+          "Uttar Pradesh - Wikipedia.pdf",
+          "Uttar Pradesh - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What is the Ramcharitmanas and who wrote it?",
+        "source_hit": true,
+        "keyword_score": 1.0,
+        "retrieved_sources": [
+          "Tulsi Manas Mandir - Wikipedia.pdf",
+          "Tulsi Manas Mandir - Wikipedia.pdf",
+          "Tulsi Manas Mandir - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What are the main dialects of Hindi?",
+        "source_hit": true,
+        "keyword_score": 1.0,
+        "retrieved_sources": [
+          "Hindi - Wikipedia.pdf",
+          "Bhojpuri language - Wikipedia.pdf",
+          "Uttar Pradesh - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What is the significance of the Kashi corridor project?",
+        "source_hit": false,
+        "keyword_score": 1.0,
+        "retrieved_sources": [
+          "Varanasi - Wikipedia.pdf",
+          "Varanasi - Wikipedia.pdf",
+          "Varanasi - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What are the main ragas in Hindustani music?",
+        "source_hit": true,
+        "keyword_score": 0.33,
+        "retrieved_sources": [
+          "Hindustani classical music - Wikipedia.pdf",
+          "Hindustani classical music - Wikipedia.pdf",
+          "Hindustani classical music - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What is the Indo-European language tree and where does Sanskrit sit?",
+        "source_hit": true,
+        "keyword_score": 1.0,
+        "retrieved_sources": [
+          "Sanskrit - Wikipedia.pdf",
+          "Sanskrit - Wikipedia.pdf",
+          "Sanskrit - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What is the history of Ramnagar Fort?",
+        "source_hit": true,
+        "keyword_score": 0.67,
+        "retrieved_sources": [
+          "Ramnagar Fort - Wikipedia.pdf",
+          "Ramnagar Fort - Wikipedia.pdf",
+          "Ramnagar Fort - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What are the main institutions at Banaras Hindu University?",
+        "source_hit": true,
+        "keyword_score": 0.67,
+        "retrieved_sources": [
+          "Banaras Hindu University - Wikipedia.pdf",
+          "Banaras Hindu University - Wikipedia.pdf",
+          "Banaras Hindu University - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What is moksha in Hindu philosophy?",
+        "source_hit": true,
+        "keyword_score": 0.67,
+        "retrieved_sources": [
+          "Hinduism - Wikipedia.pdf",
+          "Hinduism - Wikipedia.pdf",
+          "Hinduism - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What are the districts of Varanasi division?",
+        "source_hit": false,
+        "keyword_score": 1.0,
+        "retrieved_sources": [
+          "Varanasi - Wikipedia.pdf",
+          "Varanasi - Wikipedia.pdf",
+          "Varanasi - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What is the tala system in Hindustani music?",
+        "source_hit": true,
+        "keyword_score": 0.67,
+        "retrieved_sources": [
+          "Hindustani classical music - Wikipedia.pdf",
+          "Hindustani classical music - Wikipedia.pdf",
+          "Hindustani classical music - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What Vedic ceremonies are associated with the Ganges?",
+        "source_hit": true,
+        "keyword_score": 0.67,
+        "retrieved_sources": [
+          "Hinduism - Wikipedia.pdf",
+          "Hinduism - Wikipedia.pdf",
+          "Hinduism - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What is the role of Sanskrit in modern Indian languages?",
+        "source_hit": true,
+        "keyword_score": 1.0,
+        "retrieved_sources": [
+          "Sanskrit - Wikipedia.pdf",
+          "Sanskrit - Wikipedia.pdf",
+          "Sanskrit - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What is the Bhojpuri film industry known as?",
+        "source_hit": true,
+        "keyword_score": 0.67,
+        "retrieved_sources": [
+          "Bhojpuri language - Wikipedia.pdf",
+          "Varanasi - Wikipedia.pdf",
+          "Bhojpuri language - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What is the connection between Varanasi and moksha in Hinduism?",
+        "source_hit": true,
+        "keyword_score": 1.0,
+        "retrieved_sources": [
+          "Varanasi - Wikipedia.pdf",
+          "Hinduism - Wikipedia.pdf",
+          "Varanasi - Wikipedia.pdf"
+        ]
+      }
+    ]
+  },
+  {
+    "model": "all-mpnet-base-v2",
+    "source_accuracy": 94.1,
+    "keyword_accuracy": 82.4,
+    "detailed_results": [
+      {
+        "question": "What is the Dashashwamedh Ghat known for?",
+        "source_hit": true,
+        "keyword_score": 1.0,
+        "retrieved_sources": [
+          "Varanasi - Wikipedia.pdf",
+          "Varanasi - Wikipedia.pdf",
+          "Varanasi - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What are the four varieties of Banarasi sari?",
+        "source_hit": true,
+        "keyword_score": 1.0,
+        "retrieved_sources": [
+          "Banarasi sari - Wikipedia.pdf",
+          "Banarasi sari - Wikipedia.pdf",
+          "Banarasi sari - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "Where did Buddha give his first sermon?",
+        "source_hit": true,
+        "keyword_score": 1.0,
+        "retrieved_sources": [
+          "Sarnath - Wikipedia.pdf",
+          "Sarnath - Wikipedia.pdf",
+          "Sarnath - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What river flows through Varanasi?",
+        "source_hit": true,
+        "keyword_score": 1.0,
+        "retrieved_sources": [
+          "Varanasi - Wikipedia.pdf",
+          "Varanasi - Wikipedia.pdf",
+          "Varanasi - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What is zari in Banarasi weaving?",
+        "source_hit": true,
+        "keyword_score": 0.75,
+        "retrieved_sources": [
+          "Varanasi - Wikipedia.pdf",
+          "Banarasi sari - Wikipedia.pdf",
+          "Banarasi sari - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "Which year was Sarnath destroyed?",
+        "source_hit": true,
+        "keyword_score": 1.0,
+        "retrieved_sources": [
+          "Sarnath - Wikipedia.pdf",
+          "Sarnath - Wikipedia.pdf",
+          "Sarnath - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What is the Harishchandra Ghat used for?",
+        "source_hit": true,
+        "keyword_score": 1.0,
+        "retrieved_sources": [
+          "Varanasi - Wikipedia.pdf",
+          "Varanasi - Wikipedia.pdf",
+          "Varanasi - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What is the GI tag for Banarasi sari?",
+        "source_hit": true,
+        "keyword_score": 0.67,
+        "retrieved_sources": [
+          "Banarasi sari - Wikipedia.pdf",
+          "Banarasi sari - Wikipedia.pdf",
+          "Banarasi sari - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What are the Buddhist pilgrimage sites mentioned in Sarnath?",
+        "source_hit": true,
+        "keyword_score": 1.0,
+        "retrieved_sources": [
+          "Sarnath - Wikipedia.pdf",
+          "Varanasi - Wikipedia.pdf",
+          "Sarnath - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What causes pollution in the Ganges river?",
+        "source_hit": true,
+        "keyword_score": 0.67,
+        "retrieved_sources": [
+          "Varanasi - Wikipedia.pdf",
+          "Banaras Hindu University - Wikipedia.pdf",
+          "Banaras Hindu University - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What is Kashi Vishwanath temple dedicated to?",
+        "source_hit": true,
+        "keyword_score": 1.0,
+        "retrieved_sources": [
+          "Kashi Vishwanath Temple - Wikipedia.pdf",
+          "Kashi Vishwanath Temple - Wikipedia.pdf",
+          "Kashi Vishwanath Temple - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What weaving technique is used in Banarasi silk?",
+        "source_hit": true,
+        "keyword_score": 0.67,
+        "retrieved_sources": [
+          "Varanasi - Wikipedia.pdf",
+          "Banarasi sari - Wikipedia.pdf",
+          "Banarasi sari - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What is the Dhamek Stupa?",
+        "source_hit": true,
+        "keyword_score": 1.0,
+        "retrieved_sources": [
+          "Sarnath - Wikipedia.pdf",
+          "Sarnath - Wikipedia.pdf",
+          "Sarnath - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "How old is Varanasi as a city?",
+        "source_hit": true,
+        "keyword_score": 0.67,
+        "retrieved_sources": [
+          "Varanasi - Wikipedia.pdf",
+          "Varanasi - Wikipedia.pdf",
+          "Varanasi - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What is the significance of Manikarnika Ghat?",
+        "source_hit": true,
+        "keyword_score": 1.0,
+        "retrieved_sources": [
+          "Varanasi - Wikipedia.pdf",
+          "Uttar Pradesh - Wikipedia.pdf",
+          "Hinduism - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What university is located in Varanasi?",
+        "source_hit": true,
+        "keyword_score": 1.0,
+        "retrieved_sources": [
+          "Banaras Hindu University - Wikipedia.pdf",
+          "Varanasi - Wikipedia.pdf",
+          "Banaras Hindu University - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What is Sarnath famous for in Buddhism?",
+        "source_hit": true,
+        "keyword_score": 0.33,
+        "retrieved_sources": [
+          "Sarnath - Wikipedia.pdf",
+          "Varanasi - Wikipedia.pdf",
+          "Varanasi - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What designs are found in Banarasi sari?",
+        "source_hit": true,
+        "keyword_score": 0.0,
+        "retrieved_sources": [
+          "Banarasi sari - Wikipedia.pdf",
+          "Banarasi sari - Wikipedia.pdf",
+          "Banarasi sari - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What is the religious significance of the Ganges in Varanasi?",
+        "source_hit": true,
+        "keyword_score": 0.67,
+        "retrieved_sources": [
+          "Varanasi - Wikipedia.pdf",
+          "Kashi Vishwanath Temple - Wikipedia.pdf",
+          "Kashi Vishwanath Temple - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What archaeological findings were made at Sarnath?",
+        "source_hit": true,
+        "keyword_score": 1.0,
+        "retrieved_sources": [
+          "Sarnath - Wikipedia.pdf",
+          "Sarnath - Wikipedia.pdf",
+          "Sarnath - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "When was Banaras Hindu University established?",
+        "source_hit": true,
+        "keyword_score": 0.33,
+        "retrieved_sources": [
+          "Banaras Hindu University - Wikipedia.pdf",
+          "Banaras Hindu University - Wikipedia.pdf",
+          "Banaras Hindu University - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "Who founded Banaras Hindu University?",
+        "source_hit": true,
+        "keyword_score": 1.0,
+        "retrieved_sources": [
+          "Banaras Hindu University - Wikipedia.pdf",
+          "Banaras Hindu University - Wikipedia.pdf",
+          "Banaras Hindu University - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What is the Benares gharana known for in music?",
+        "source_hit": true,
+        "keyword_score": 0.67,
+        "retrieved_sources": [
+          "Benares gharana - Wikipedia.pdf",
+          "Benares gharana - Wikipedia.pdf",
+          "Benares gharana - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What script is used to write Hindi?",
+        "source_hit": true,
+        "keyword_score": 1.0,
+        "retrieved_sources": [
+          "Hindi - Wikipedia.pdf",
+          "Sanskrit - Wikipedia.pdf",
+          "Sanskrit - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What is the origin of the Sanskrit language?",
+        "source_hit": true,
+        "keyword_score": 1.0,
+        "retrieved_sources": [
+          "Sanskrit - Wikipedia.pdf",
+          "Sanskrit - Wikipedia.pdf",
+          "Sanskrit - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What are the main features of Hindustani classical music?",
+        "source_hit": true,
+        "keyword_score": 0.33,
+        "retrieved_sources": [
+          "Hindustani classical music - Wikipedia.pdf",
+          "Hindustani classical music - Wikipedia.pdf",
+          "Hindustani classical music - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What is the Ramnagar Fort used for today?",
+        "source_hit": true,
+        "keyword_score": 0.67,
+        "retrieved_sources": [
+          "Ramnagar Fort - Wikipedia.pdf",
+          "Ramnagar Fort - Wikipedia.pdf",
+          "Ramnagar Fort - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What is the Tulsi Manas Mandir dedicated to?",
+        "source_hit": true,
+        "keyword_score": 0.67,
+        "retrieved_sources": [
+          "Tulsi Manas Mandir - Wikipedia.pdf",
+          "Tulsi Manas Mandir - Wikipedia.pdf",
+          "Tulsi Manas Mandir - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What language family does Bhojpuri belong to?",
+        "source_hit": true,
+        "keyword_score": 1.0,
+        "retrieved_sources": [
+          "Bhojpuri language - Wikipedia.pdf",
+          "Bhojpuri language - Wikipedia.pdf",
+          "Bhojpuri language - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What is the capital of Uttar Pradesh?",
+        "source_hit": true,
+        "keyword_score": 1.0,
+        "retrieved_sources": [
+          "Uttar Pradesh - Wikipedia.pdf",
+          "Uttar Pradesh - Wikipedia.pdf",
+          "Uttar Pradesh - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What are the four goals of life in Hinduism?",
+        "source_hit": true,
+        "keyword_score": 1.0,
+        "retrieved_sources": [
+          "Hinduism - Wikipedia.pdf",
+          "Hinduism - Wikipedia.pdf",
+          "Hinduism - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What is the Ashvamedha ritual in Hinduism?",
+        "source_hit": true,
+        "keyword_score": 0.67,
+        "retrieved_sources": [
+          "Varanasi - Wikipedia.pdf",
+          "Hinduism - Wikipedia.pdf",
+          "Hinduism - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "How many speakers does Bhojpuri have worldwide?",
+        "source_hit": true,
+        "keyword_score": 1.0,
+        "retrieved_sources": [
+          "Bhojpuri language - Wikipedia.pdf",
+          "Bhojpuri language - Wikipedia.pdf",
+          "Bhojpuri language - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What is Sanskrit's role in Indian classical literature?",
+        "source_hit": true,
+        "keyword_score": 0.67,
+        "retrieved_sources": [
+          "Sanskrit - Wikipedia.pdf",
+          "Sanskrit - Wikipedia.pdf",
+          "Sanskrit - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What gharana style does tabla playing in Varanasi follow?",
+        "source_hit": true,
+        "keyword_score": 0.67,
+        "retrieved_sources": [
+          "Benares gharana - Wikipedia.pdf",
+          "Benares gharana - Wikipedia.pdf",
+          "Benares gharana - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What are the sacred texts of Hinduism?",
+        "source_hit": true,
+        "keyword_score": 1.0,
+        "retrieved_sources": [
+          "Hinduism - Wikipedia.pdf",
+          "Hinduism - Wikipedia.pdf",
+          "Hinduism - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What is the population of Uttar Pradesh?",
+        "source_hit": true,
+        "keyword_score": 0.67,
+        "retrieved_sources": [
+          "Uttar Pradesh - Wikipedia.pdf",
+          "Uttar Pradesh - Wikipedia.pdf",
+          "Uttar Pradesh - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What is the Ramcharitmanas and who wrote it?",
+        "source_hit": true,
+        "keyword_score": 1.0,
+        "retrieved_sources": [
+          "Tulsi Manas Mandir - Wikipedia.pdf",
+          "Tulsi Manas Mandir - Wikipedia.pdf",
+          "Tulsi Manas Mandir - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What are the main dialects of Hindi?",
+        "source_hit": true,
+        "keyword_score": 1.0,
+        "retrieved_sources": [
+          "Hindi - Wikipedia.pdf",
+          "Hindi - Wikipedia.pdf",
+          "Hindi - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What is the significance of the Kashi corridor project?",
+        "source_hit": false,
+        "keyword_score": 1.0,
+        "retrieved_sources": [
+          "Varanasi - Wikipedia.pdf",
+          "Varanasi - Wikipedia.pdf",
+          "Varanasi - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What are the main ragas in Hindustani music?",
+        "source_hit": true,
+        "keyword_score": 0.33,
+        "retrieved_sources": [
+          "Hindustani classical music - Wikipedia.pdf",
+          "Hindustani classical music - Wikipedia.pdf",
+          "Hindustani classical music - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What is the Indo-European language tree and where does Sanskrit sit?",
+        "source_hit": true,
+        "keyword_score": 1.0,
+        "retrieved_sources": [
+          "Sanskrit - Wikipedia.pdf",
+          "Sanskrit - Wikipedia.pdf",
+          "Sanskrit - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What is the history of Ramnagar Fort?",
+        "source_hit": true,
+        "keyword_score": 0.33,
+        "retrieved_sources": [
+          "Ramnagar Fort - Wikipedia.pdf",
+          "Ramnagar Fort - Wikipedia.pdf",
+          "Ramnagar Fort - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What are the main institutions at Banaras Hindu University?",
+        "source_hit": true,
+        "keyword_score": 0.67,
+        "retrieved_sources": [
+          "Banaras Hindu University - Wikipedia.pdf",
+          "Banaras Hindu University - Wikipedia.pdf",
+          "Banaras Hindu University - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What is moksha in Hindu philosophy?",
+        "source_hit": true,
+        "keyword_score": 0.67,
+        "retrieved_sources": [
+          "Hinduism - Wikipedia.pdf",
+          "Hinduism - Wikipedia.pdf",
+          "Hinduism - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What are the districts of Varanasi division?",
+        "source_hit": false,
+        "keyword_score": 1.0,
+        "retrieved_sources": [
+          "Varanasi - Wikipedia.pdf",
+          "Varanasi - Wikipedia.pdf",
+          "Varanasi - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What is the tala system in Hindustani music?",
+        "source_hit": true,
+        "keyword_score": 0.33,
+        "retrieved_sources": [
+          "Hindustani classical music - Wikipedia.pdf",
+          "Hindustani classical music - Wikipedia.pdf",
+          "Hindustani classical music - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What Vedic ceremonies are associated with the Ganges?",
+        "source_hit": false,
+        "keyword_score": 0.33,
+        "retrieved_sources": [
+          "Varanasi - Wikipedia.pdf",
+          "Uttar Pradesh - Wikipedia.pdf",
+          "Kashi Vishwanath Temple - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What is the role of Sanskrit in modern Indian languages?",
+        "source_hit": true,
+        "keyword_score": 0.67,
+        "retrieved_sources": [
+          "Sanskrit - Wikipedia.pdf",
+          "Sanskrit - Wikipedia.pdf",
+          "Sanskrit - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What is the Bhojpuri film industry known as?",
+        "source_hit": true,
+        "keyword_score": 0.67,
+        "retrieved_sources": [
+          "Bhojpuri language - Wikipedia.pdf",
+          "Bhojpuri language - Wikipedia.pdf",
+          "Bhojpuri language - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What is the connection between Varanasi and moksha in Hinduism?",
+        "source_hit": true,
+        "keyword_score": 0.33,
+        "retrieved_sources": [
+          "Varanasi - Wikipedia.pdf",
+          "Varanasi - Wikipedia.pdf",
+          "Varanasi - Wikipedia.pdf"
+        ]
+      }
+    ]
+  },
+  {
+    "model": "paraphrase-multilingual-MiniLM-L12-v2",
+    "source_accuracy": 88.2,
+    "keyword_accuracy": 70.6,
+    "detailed_results": [
+      {
+        "question": "What is the Dashashwamedh Ghat known for?",
+        "source_hit": false,
+        "keyword_score": 0.0,
+        "retrieved_sources": [
+          "Hindustani classical music - Wikipedia.pdf",
+          "Sarnath - Wikipedia.pdf",
+          "Hindi - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What are the four varieties of Banarasi sari?",
+        "source_hit": true,
+        "keyword_score": 1.0,
+        "retrieved_sources": [
+          "Banarasi sari - Wikipedia.pdf",
+          "Banarasi sari - Wikipedia.pdf",
+          "Banarasi sari - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "Where did Buddha give his first sermon?",
+        "source_hit": true,
+        "keyword_score": 1.0,
+        "retrieved_sources": [
+          "Varanasi - Wikipedia.pdf",
+          "Sarnath - Wikipedia.pdf",
+          "Sarnath - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What river flows through Varanasi?",
+        "source_hit": true,
+        "keyword_score": 0.5,
+        "retrieved_sources": [
+          "Varanasi - Wikipedia.pdf",
+          "Varanasi - Wikipedia.pdf",
+          "Varanasi - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What is zari in Banarasi weaving?",
+        "source_hit": true,
+        "keyword_score": 1.0,
+        "retrieved_sources": [
+          "Banarasi sari - Wikipedia.pdf",
+          "Banarasi sari - Wikipedia.pdf",
+          "Banarasi sari - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "Which year was Sarnath destroyed?",
+        "source_hit": true,
+        "keyword_score": 1.0,
+        "retrieved_sources": [
+          "Sarnath - Wikipedia.pdf",
+          "Sarnath - Wikipedia.pdf",
+          "Kashi Vishwanath Temple - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What is the Harishchandra Ghat used for?",
+        "source_hit": false,
+        "keyword_score": 0.0,
+        "retrieved_sources": [
+          "Sanskrit - Wikipedia.pdf",
+          "Hindustani classical music - Wikipedia.pdf",
+          "Kashi Vishwanath Temple - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What is the GI tag for Banarasi sari?",
+        "source_hit": true,
+        "keyword_score": 0.67,
+        "retrieved_sources": [
+          "Banarasi sari - Wikipedia.pdf",
+          "Banarasi sari - Wikipedia.pdf",
+          "Banarasi sari - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What are the Buddhist pilgrimage sites mentioned in Sarnath?",
+        "source_hit": true,
+        "keyword_score": 0.67,
+        "retrieved_sources": [
+          "Sarnath - Wikipedia.pdf",
+          "Uttar Pradesh - Wikipedia.pdf",
+          "Uttar Pradesh - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What causes pollution in the Ganges river?",
+        "source_hit": true,
+        "keyword_score": 0.67,
+        "retrieved_sources": [
+          "Varanasi - Wikipedia.pdf",
+          "Banarasi sari - Wikipedia.pdf",
+          "Varanasi - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What is Kashi Vishwanath temple dedicated to?",
+        "source_hit": true,
+        "keyword_score": 1.0,
+        "retrieved_sources": [
+          "Kashi Vishwanath Temple - Wikipedia.pdf",
+          "Kashi Vishwanath Temple - Wikipedia.pdf",
+          "Kashi Vishwanath Temple - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What weaving technique is used in Banarasi silk?",
+        "source_hit": true,
+        "keyword_score": 0.67,
+        "retrieved_sources": [
+          "Banarasi sari - Wikipedia.pdf",
+          "Banarasi sari - Wikipedia.pdf",
+          "Varanasi - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What is the Dhamek Stupa?",
+        "source_hit": true,
+        "keyword_score": 0.67,
+        "retrieved_sources": [
+          "Sarnath - Wikipedia.pdf",
+          "Hindustani classical music - Wikipedia.pdf",
+          "Hindustani classical music - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "How old is Varanasi as a city?",
+        "source_hit": true,
+        "keyword_score": 0.33,
+        "retrieved_sources": [
+          "Varanasi - Wikipedia.pdf",
+          "Varanasi - Wikipedia.pdf",
+          "Varanasi - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What is the significance of Manikarnika Ghat?",
+        "source_hit": false,
+        "keyword_score": 0.0,
+        "retrieved_sources": [
+          "Sarnath - Wikipedia.pdf",
+          "Banaras Hindu University - Wikipedia.pdf",
+          "Sarnath - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What university is located in Varanasi?",
+        "source_hit": false,
+        "keyword_score": 1.0,
+        "retrieved_sources": [
+          "Varanasi - Wikipedia.pdf",
+          "Varanasi - Wikipedia.pdf",
+          "Varanasi - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What is Sarnath famous for in Buddhism?",
+        "source_hit": true,
+        "keyword_score": 0.33,
+        "retrieved_sources": [
+          "Sarnath - Wikipedia.pdf",
+          "Sarnath - Wikipedia.pdf",
+          "Varanasi - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What designs are found in Banarasi sari?",
+        "source_hit": true,
+        "keyword_score": 0.0,
+        "retrieved_sources": [
+          "Banarasi sari - Wikipedia.pdf",
+          "Banarasi sari - Wikipedia.pdf",
+          "Banarasi sari - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What is the religious significance of the Ganges in Varanasi?",
+        "source_hit": true,
+        "keyword_score": 0.33,
+        "retrieved_sources": [
+          "Varanasi - Wikipedia.pdf",
+          "Varanasi - Wikipedia.pdf",
+          "Varanasi - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What archaeological findings were made at Sarnath?",
+        "source_hit": true,
+        "keyword_score": 0.67,
+        "retrieved_sources": [
+          "Sarnath - Wikipedia.pdf",
+          "Sarnath - Wikipedia.pdf",
+          "Sarnath - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "When was Banaras Hindu University established?",
+        "source_hit": true,
+        "keyword_score": 0.33,
+        "retrieved_sources": [
+          "Banaras Hindu University - Wikipedia.pdf",
+          "Varanasi - Wikipedia.pdf",
+          "Banaras Hindu University - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "Who founded Banaras Hindu University?",
+        "source_hit": true,
+        "keyword_score": 1.0,
+        "retrieved_sources": [
+          "Banaras Hindu University - Wikipedia.pdf",
+          "Banaras Hindu University - Wikipedia.pdf",
+          "Varanasi - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What is the Benares gharana known for in music?",
+        "source_hit": true,
+        "keyword_score": 0.67,
+        "retrieved_sources": [
+          "Benares gharana - Wikipedia.pdf",
+          "Varanasi - Wikipedia.pdf",
+          "Hindustani classical music - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What script is used to write Hindi?",
+        "source_hit": true,
+        "keyword_score": 1.0,
+        "retrieved_sources": [
+          "Sanskrit - Wikipedia.pdf",
+          "Hindi - Wikipedia.pdf",
+          "Hindi - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What is the origin of the Sanskrit language?",
+        "source_hit": true,
+        "keyword_score": 0.67,
+        "retrieved_sources": [
+          "Sanskrit - Wikipedia.pdf",
+          "Sanskrit - Wikipedia.pdf",
+          "Sanskrit - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What are the main features of Hindustani classical music?",
+        "source_hit": true,
+        "keyword_score": 0.33,
+        "retrieved_sources": [
+          "Hindustani classical music - Wikipedia.pdf",
+          "Hindustani classical music - Wikipedia.pdf",
+          "Hindustani classical music - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What is the Ramnagar Fort used for today?",
+        "source_hit": true,
+        "keyword_score": 1.0,
+        "retrieved_sources": [
+          "Ramnagar Fort - Wikipedia.pdf",
+          "Ramnagar Fort - Wikipedia.pdf",
+          "Varanasi - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What is the Tulsi Manas Mandir dedicated to?",
+        "source_hit": true,
+        "keyword_score": 0.67,
+        "retrieved_sources": [
+          "Tulsi Manas Mandir - Wikipedia.pdf",
+          "Tulsi Manas Mandir - Wikipedia.pdf",
+          "Varanasi - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What language family does Bhojpuri belong to?",
+        "source_hit": true,
+        "keyword_score": 0.67,
+        "retrieved_sources": [
+          "Bhojpuri language - Wikipedia.pdf",
+          "Bhojpuri language - Wikipedia.pdf",
+          "Bhojpuri language - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What is the capital of Uttar Pradesh?",
+        "source_hit": true,
+        "keyword_score": 1.0,
+        "retrieved_sources": [
+          "Uttar Pradesh - Wikipedia.pdf",
+          "Uttar Pradesh - Wikipedia.pdf",
+          "Uttar Pradesh - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What are the four goals of life in Hinduism?",
+        "source_hit": true,
+        "keyword_score": 1.0,
+        "retrieved_sources": [
+          "Hinduism - Wikipedia.pdf",
+          "Hinduism - Wikipedia.pdf",
+          "Hinduism - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What is the Ashvamedha ritual in Hinduism?",
+        "source_hit": true,
+        "keyword_score": 0.33,
+        "retrieved_sources": [
+          "Hinduism - Wikipedia.pdf",
+          "Hinduism - Wikipedia.pdf",
+          "Hinduism - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "How many speakers does Bhojpuri have worldwide?",
+        "source_hit": true,
+        "keyword_score": 1.0,
+        "retrieved_sources": [
+          "Bhojpuri language - Wikipedia.pdf",
+          "Bhojpuri language - Wikipedia.pdf",
+          "Bhojpuri language - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What is Sanskrit's role in Indian classical literature?",
+        "source_hit": true,
+        "keyword_score": 0.67,
+        "retrieved_sources": [
+          "Sanskrit - Wikipedia.pdf",
+          "Sanskrit - Wikipedia.pdf",
+          "Sanskrit - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What gharana style does tabla playing in Varanasi follow?",
+        "source_hit": true,
+        "keyword_score": 0.67,
+        "retrieved_sources": [
+          "Benares gharana - Wikipedia.pdf",
+          "Benares gharana - Wikipedia.pdf",
+          "Benares gharana - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What are the sacred texts of Hinduism?",
+        "source_hit": true,
+        "keyword_score": 0.33,
+        "retrieved_sources": [
+          "Hinduism - Wikipedia.pdf",
+          "Sanskrit - Wikipedia.pdf",
+          "Hinduism - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What is the population of Uttar Pradesh?",
+        "source_hit": true,
+        "keyword_score": 0.67,
+        "retrieved_sources": [
+          "Uttar Pradesh - Wikipedia.pdf",
+          "Uttar Pradesh - Wikipedia.pdf",
+          "Uttar Pradesh - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What is the Ramcharitmanas and who wrote it?",
+        "source_hit": true,
+        "keyword_score": 1.0,
+        "retrieved_sources": [
+          "Tulsi Manas Mandir - Wikipedia.pdf",
+          "Sanskrit - Wikipedia.pdf",
+          "Tulsi Manas Mandir - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What are the main dialects of Hindi?",
+        "source_hit": true,
+        "keyword_score": 1.0,
+        "retrieved_sources": [
+          "Hindi - Wikipedia.pdf",
+          "Hindi - Wikipedia.pdf",
+          "Hindi - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What is the significance of the Kashi corridor project?",
+        "source_hit": true,
+        "keyword_score": 1.0,
+        "retrieved_sources": [
+          "Varanasi - Wikipedia.pdf",
+          "Kashi Vishwanath Temple - Wikipedia.pdf",
+          "Kashi Vishwanath Temple - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What are the main ragas in Hindustani music?",
+        "source_hit": true,
+        "keyword_score": 0.33,
+        "retrieved_sources": [
+          "Hindustani classical music - Wikipedia.pdf",
+          "Hindustani classical music - Wikipedia.pdf",
+          "Hindustani classical music - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What is the Indo-European language tree and where does Sanskrit sit?",
+        "source_hit": true,
+        "keyword_score": 1.0,
+        "retrieved_sources": [
+          "Sanskrit - Wikipedia.pdf",
+          "Sanskrit - Wikipedia.pdf",
+          "Sanskrit - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What is the history of Ramnagar Fort?",
+        "source_hit": true,
+        "keyword_score": 0.67,
+        "retrieved_sources": [
+          "Ramnagar Fort - Wikipedia.pdf",
+          "Ramnagar Fort - Wikipedia.pdf",
+          "Varanasi - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What are the main institutions at Banaras Hindu University?",
+        "source_hit": true,
+        "keyword_score": 0.67,
+        "retrieved_sources": [
+          "Banaras Hindu University - Wikipedia.pdf",
+          "Banaras Hindu University - Wikipedia.pdf",
+          "Banaras Hindu University - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What is moksha in Hindu philosophy?",
+        "source_hit": true,
+        "keyword_score": 0.67,
+        "retrieved_sources": [
+          "Hinduism - Wikipedia.pdf",
+          "Hinduism - Wikipedia.pdf",
+          "Hinduism - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What are the districts of Varanasi division?",
+        "source_hit": false,
+        "keyword_score": 1.0,
+        "retrieved_sources": [
+          "Varanasi - Wikipedia.pdf",
+          "Varanasi - Wikipedia.pdf",
+          "Varanasi - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What is the tala system in Hindustani music?",
+        "source_hit": true,
+        "keyword_score": 0.33,
+        "retrieved_sources": [
+          "Hindustani classical music - Wikipedia.pdf",
+          "Hindustani classical music - Wikipedia.pdf",
+          "Hindustani classical music - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What Vedic ceremonies are associated with the Ganges?",
+        "source_hit": true,
+        "keyword_score": 0.33,
+        "retrieved_sources": [
+          "Hinduism - Wikipedia.pdf",
+          "Hinduism - Wikipedia.pdf",
+          "Hinduism - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What is the role of Sanskrit in modern Indian languages?",
+        "source_hit": true,
+        "keyword_score": 0.67,
+        "retrieved_sources": [
+          "Sanskrit - Wikipedia.pdf",
+          "Sanskrit - Wikipedia.pdf",
+          "Sanskrit - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What is the Bhojpuri film industry known as?",
+        "source_hit": true,
+        "keyword_score": 0.67,
+        "retrieved_sources": [
+          "Bhojpuri language - Wikipedia.pdf",
+          "Banaras Hindu University - Wikipedia.pdf",
+          "Bhojpuri language - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What is the connection between Varanasi and moksha in Hinduism?",
+        "source_hit": false,
+        "keyword_score": 0.33,
+        "retrieved_sources": [
+          "Banaras Hindu University - Wikipedia.pdf",
+          "Hinduism - Wikipedia.pdf",
+          "Hinduism - Wikipedia.pdf"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,623 @@
+[
+  {
+    "model": "all-MiniLM-L6-v2",
+    "source_accuracy": 100.0,
+    "keyword_accuracy": 75.0,
+    "detailed_results": [
+      {
+        "question": "What is the Dashashwamedh Ghat known for?",
+        "source_hit": true,
+        "keyword_score": 1.0,
+        "retrieved_sources": [
+          "Varanasi - Wikipedia.pdf",
+          "Varanasi - Wikipedia.pdf",
+          "Varanasi - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What are the four varieties of Banarasi sari?",
+        "source_hit": true,
+        "keyword_score": 1.0,
+        "retrieved_sources": [
+          "Banarasi sari - Wikipedia.pdf",
+          "Banarasi sari - Wikipedia.pdf",
+          "Banarasi sari - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "Where did Buddha give his first sermon?",
+        "source_hit": true,
+        "keyword_score": 1.0,
+        "retrieved_sources": [
+          "Sarnath - Wikipedia.pdf",
+          "Sarnath - Wikipedia.pdf",
+          "Varanasi - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What river flows through Varanasi?",
+        "source_hit": true,
+        "keyword_score": 1.0,
+        "retrieved_sources": [
+          "Varanasi - Wikipedia.pdf",
+          "Varanasi - Wikipedia.pdf",
+          "Varanasi - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What is zari in Banarasi weaving?",
+        "source_hit": true,
+        "keyword_score": 1.0,
+        "retrieved_sources": [
+          "Banarasi sari - Wikipedia.pdf",
+          "Banarasi sari - Wikipedia.pdf",
+          "Varanasi - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "Which emperor destroyed Sarnath in 1194?",
+        "source_hit": true,
+        "keyword_score": 0.67,
+        "retrieved_sources": [
+          "Sarnath - Wikipedia.pdf",
+          "Sarnath - Wikipedia.pdf",
+          "Sarnath - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What is the Harishchandra Ghat used for?",
+        "source_hit": true,
+        "keyword_score": 1.0,
+        "retrieved_sources": [
+          "Varanasi - Wikipedia.pdf",
+          "Varanasi - Wikipedia.pdf",
+          "Varanasi - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What is the GI tag for Banarasi sari?",
+        "source_hit": true,
+        "keyword_score": 0.33,
+        "retrieved_sources": [
+          "Banarasi sari - Wikipedia.pdf",
+          "Banarasi sari - Wikipedia.pdf",
+          "Banarasi sari - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What are the Buddhist pilgrimage sites mentioned in Sarnath?",
+        "source_hit": true,
+        "keyword_score": 1.0,
+        "retrieved_sources": [
+          "Sarnath - Wikipedia.pdf",
+          "Varanasi - Wikipedia.pdf",
+          "Sarnath - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What causes pollution in the Ganges river?",
+        "source_hit": true,
+        "keyword_score": 0.67,
+        "retrieved_sources": [
+          "Varanasi - Wikipedia.pdf",
+          "Varanasi - Wikipedia.pdf",
+          "Varanasi - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What is Kashi Vishwanath temple dedicated to?",
+        "source_hit": true,
+        "keyword_score": 0.67,
+        "retrieved_sources": [
+          "Kashi Vishwanath Temple - Wikipedia.pdf",
+          "Kashi Vishwanath Temple - Wikipedia.pdf",
+          "Kashi Vishwanath Temple - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What weaving technique is used in Banarasi silk?",
+        "source_hit": true,
+        "keyword_score": 0.67,
+        "retrieved_sources": [
+          "Varanasi - Wikipedia.pdf",
+          "Banarasi sari - Wikipedia.pdf",
+          "Banarasi sari - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What is the Dhamek Stupa?",
+        "source_hit": true,
+        "keyword_score": 1.0,
+        "retrieved_sources": [
+          "Sarnath - Wikipedia.pdf",
+          "Sarnath - Wikipedia.pdf",
+          "Sarnath - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "How old is Varanasi as a city?",
+        "source_hit": true,
+        "keyword_score": 0.0,
+        "retrieved_sources": [
+          "Varanasi - Wikipedia.pdf",
+          "Varanasi - Wikipedia.pdf",
+          "Varanasi - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What is the significance of Manikarnika Ghat?",
+        "source_hit": true,
+        "keyword_score": 1.0,
+        "retrieved_sources": [
+          "Varanasi - Wikipedia.pdf",
+          "Varanasi - Wikipedia.pdf",
+          "Varanasi - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What university is located in Varanasi?",
+        "source_hit": true,
+        "keyword_score": 1.0,
+        "retrieved_sources": [
+          "Varanasi - Wikipedia.pdf",
+          "Varanasi - Wikipedia.pdf",
+          "Varanasi - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What is Sarnath famous for in Buddhism?",
+        "source_hit": true,
+        "keyword_score": 0.33,
+        "retrieved_sources": [
+          "Sarnath - Wikipedia.pdf",
+          "Sarnath - Wikipedia.pdf",
+          "Sarnath - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What designs are found in Banarasi sari?",
+        "source_hit": true,
+        "keyword_score": 0.0,
+        "retrieved_sources": [
+          "Banarasi sari - Wikipedia.pdf",
+          "Banarasi sari - Wikipedia.pdf",
+          "Banarasi sari - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What is the religious significance of the Ganges in Varanasi?",
+        "source_hit": true,
+        "keyword_score": 0.33,
+        "retrieved_sources": [
+          "Varanasi - Wikipedia.pdf",
+          "Varanasi - Wikipedia.pdf",
+          "Varanasi - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What archaeological findings were made at Sarnath?",
+        "source_hit": true,
+        "keyword_score": 1.0,
+        "retrieved_sources": [
+          "Sarnath - Wikipedia.pdf",
+          "Sarnath - Wikipedia.pdf",
+          "Sarnath - Wikipedia.pdf"
+        ]
+      }
+    ]
+  },
+  {
+    "model": "all-mpnet-base-v2",
+    "source_accuracy": 100.0,
+    "keyword_accuracy": 90.0,
+    "detailed_results": [
+      {
+        "question": "What is the Dashashwamedh Ghat known for?",
+        "source_hit": true,
+        "keyword_score": 1.0,
+        "retrieved_sources": [
+          "Varanasi - Wikipedia.pdf",
+          "Varanasi - Wikipedia.pdf",
+          "Varanasi - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What are the four varieties of Banarasi sari?",
+        "source_hit": true,
+        "keyword_score": 1.0,
+        "retrieved_sources": [
+          "Banarasi sari - Wikipedia.pdf",
+          "Banarasi sari - Wikipedia.pdf",
+          "Banarasi sari - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "Where did Buddha give his first sermon?",
+        "source_hit": true,
+        "keyword_score": 1.0,
+        "retrieved_sources": [
+          "Sarnath - Wikipedia.pdf",
+          "Sarnath - Wikipedia.pdf",
+          "Sarnath - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What river flows through Varanasi?",
+        "source_hit": true,
+        "keyword_score": 1.0,
+        "retrieved_sources": [
+          "Varanasi - Wikipedia.pdf",
+          "Varanasi - Wikipedia.pdf",
+          "Varanasi - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What is zari in Banarasi weaving?",
+        "source_hit": true,
+        "keyword_score": 0.75,
+        "retrieved_sources": [
+          "Varanasi - Wikipedia.pdf",
+          "Banarasi sari - Wikipedia.pdf",
+          "Banarasi sari - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "Which emperor destroyed Sarnath in 1194?",
+        "source_hit": true,
+        "keyword_score": 1.0,
+        "retrieved_sources": [
+          "Sarnath - Wikipedia.pdf",
+          "Sarnath - Wikipedia.pdf",
+          "Sarnath - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What is the Harishchandra Ghat used for?",
+        "source_hit": true,
+        "keyword_score": 1.0,
+        "retrieved_sources": [
+          "Varanasi - Wikipedia.pdf",
+          "Varanasi - Wikipedia.pdf",
+          "Varanasi - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What is the GI tag for Banarasi sari?",
+        "source_hit": true,
+        "keyword_score": 0.67,
+        "retrieved_sources": [
+          "Banarasi sari - Wikipedia.pdf",
+          "Banarasi sari - Wikipedia.pdf",
+          "Banarasi sari - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What are the Buddhist pilgrimage sites mentioned in Sarnath?",
+        "source_hit": true,
+        "keyword_score": 1.0,
+        "retrieved_sources": [
+          "Sarnath - Wikipedia.pdf",
+          "Varanasi - Wikipedia.pdf",
+          "Sarnath - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What causes pollution in the Ganges river?",
+        "source_hit": true,
+        "keyword_score": 0.67,
+        "retrieved_sources": [
+          "Varanasi - Wikipedia.pdf",
+          "Varanasi - Wikipedia.pdf",
+          "Varanasi - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What is Kashi Vishwanath temple dedicated to?",
+        "source_hit": true,
+        "keyword_score": 1.0,
+        "retrieved_sources": [
+          "Kashi Vishwanath Temple - Wikipedia.pdf",
+          "Kashi Vishwanath Temple - Wikipedia.pdf",
+          "Kashi Vishwanath Temple - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What weaving technique is used in Banarasi silk?",
+        "source_hit": true,
+        "keyword_score": 0.67,
+        "retrieved_sources": [
+          "Varanasi - Wikipedia.pdf",
+          "Banarasi sari - Wikipedia.pdf",
+          "Banarasi sari - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What is the Dhamek Stupa?",
+        "source_hit": true,
+        "keyword_score": 1.0,
+        "retrieved_sources": [
+          "Sarnath - Wikipedia.pdf",
+          "Sarnath - Wikipedia.pdf",
+          "Sarnath - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "How old is Varanasi as a city?",
+        "source_hit": true,
+        "keyword_score": 0.67,
+        "retrieved_sources": [
+          "Varanasi - Wikipedia.pdf",
+          "Varanasi - Wikipedia.pdf",
+          "Varanasi - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What is the significance of Manikarnika Ghat?",
+        "source_hit": true,
+        "keyword_score": 1.0,
+        "retrieved_sources": [
+          "Varanasi - Wikipedia.pdf",
+          "Varanasi - Wikipedia.pdf",
+          "Kashi Vishwanath Temple - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What university is located in Varanasi?",
+        "source_hit": true,
+        "keyword_score": 1.0,
+        "retrieved_sources": [
+          "Varanasi - Wikipedia.pdf",
+          "Varanasi - Wikipedia.pdf",
+          "Varanasi - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What is Sarnath famous for in Buddhism?",
+        "source_hit": true,
+        "keyword_score": 0.33,
+        "retrieved_sources": [
+          "Sarnath - Wikipedia.pdf",
+          "Varanasi - Wikipedia.pdf",
+          "Varanasi - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What designs are found in Banarasi sari?",
+        "source_hit": true,
+        "keyword_score": 0.0,
+        "retrieved_sources": [
+          "Banarasi sari - Wikipedia.pdf",
+          "Banarasi sari - Wikipedia.pdf",
+          "Banarasi sari - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What is the religious significance of the Ganges in Varanasi?",
+        "source_hit": true,
+        "keyword_score": 0.67,
+        "retrieved_sources": [
+          "Varanasi - Wikipedia.pdf",
+          "Kashi Vishwanath Temple - Wikipedia.pdf",
+          "Kashi Vishwanath Temple - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What archaeological findings were made at Sarnath?",
+        "source_hit": true,
+        "keyword_score": 1.0,
+        "retrieved_sources": [
+          "Sarnath - Wikipedia.pdf",
+          "Sarnath - Wikipedia.pdf",
+          "Sarnath - Wikipedia.pdf"
+        ]
+      }
+    ]
+  },
+  {
+    "model": "paraphrase-multilingual-MiniLM-L12-v2",
+    "source_accuracy": 95.0,
+    "keyword_accuracy": 70.0,
+    "detailed_results": [
+      {
+        "question": "What is the Dashashwamedh Ghat known for?",
+        "source_hit": true,
+        "keyword_score": 0.33,
+        "retrieved_sources": [
+          "Sarnath - Wikipedia.pdf",
+          "Varanasi - Wikipedia.pdf",
+          "Sarnath - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What are the four varieties of Banarasi sari?",
+        "source_hit": true,
+        "keyword_score": 1.0,
+        "retrieved_sources": [
+          "Banarasi sari - Wikipedia.pdf",
+          "Banarasi sari - Wikipedia.pdf",
+          "Banarasi sari - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "Where did Buddha give his first sermon?",
+        "source_hit": true,
+        "keyword_score": 1.0,
+        "retrieved_sources": [
+          "Varanasi - Wikipedia.pdf",
+          "Sarnath - Wikipedia.pdf",
+          "Sarnath - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What river flows through Varanasi?",
+        "source_hit": true,
+        "keyword_score": 0.5,
+        "retrieved_sources": [
+          "Varanasi - Wikipedia.pdf",
+          "Varanasi - Wikipedia.pdf",
+          "Varanasi - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What is zari in Banarasi weaving?",
+        "source_hit": true,
+        "keyword_score": 1.0,
+        "retrieved_sources": [
+          "Banarasi sari - Wikipedia.pdf",
+          "Banarasi sari - Wikipedia.pdf",
+          "Banarasi sari - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "Which emperor destroyed Sarnath in 1194?",
+        "source_hit": true,
+        "keyword_score": 1.0,
+        "retrieved_sources": [
+          "Sarnath - Wikipedia.pdf",
+          "Sarnath - Wikipedia.pdf",
+          "Sarnath - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What is the Harishchandra Ghat used for?",
+        "source_hit": true,
+        "keyword_score": 0.67,
+        "retrieved_sources": [
+          "Kashi Vishwanath Temple - Wikipedia.pdf",
+          "Varanasi - Wikipedia.pdf",
+          "Sarnath - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What is the GI tag for Banarasi sari?",
+        "source_hit": true,
+        "keyword_score": 0.67,
+        "retrieved_sources": [
+          "Banarasi sari - Wikipedia.pdf",
+          "Banarasi sari - Wikipedia.pdf",
+          "Banarasi sari - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What are the Buddhist pilgrimage sites mentioned in Sarnath?",
+        "source_hit": true,
+        "keyword_score": 1.0,
+        "retrieved_sources": [
+          "Sarnath - Wikipedia.pdf",
+          "Sarnath - Wikipedia.pdf",
+          "Sarnath - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What causes pollution in the Ganges river?",
+        "source_hit": true,
+        "keyword_score": 0.67,
+        "retrieved_sources": [
+          "Varanasi - Wikipedia.pdf",
+          "Banarasi sari - Wikipedia.pdf",
+          "Varanasi - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What is Kashi Vishwanath temple dedicated to?",
+        "source_hit": true,
+        "keyword_score": 1.0,
+        "retrieved_sources": [
+          "Kashi Vishwanath Temple - Wikipedia.pdf",
+          "Kashi Vishwanath Temple - Wikipedia.pdf",
+          "Kashi Vishwanath Temple - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What weaving technique is used in Banarasi silk?",
+        "source_hit": true,
+        "keyword_score": 0.67,
+        "retrieved_sources": [
+          "Banarasi sari - Wikipedia.pdf",
+          "Banarasi sari - Wikipedia.pdf",
+          "Varanasi - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What is the Dhamek Stupa?",
+        "source_hit": true,
+        "keyword_score": 1.0,
+        "retrieved_sources": [
+          "Sarnath - Wikipedia.pdf",
+          "Varanasi - Wikipedia.pdf",
+          "Sarnath - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "How old is Varanasi as a city?",
+        "source_hit": true,
+        "keyword_score": 0.33,
+        "retrieved_sources": [
+          "Varanasi - Wikipedia.pdf",
+          "Varanasi - Wikipedia.pdf",
+          "Varanasi - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What is the significance of Manikarnika Ghat?",
+        "source_hit": false,
+        "keyword_score": 0.0,
+        "retrieved_sources": [
+          "Sarnath - Wikipedia.pdf",
+          "Sarnath - Wikipedia.pdf",
+          "Kashi Vishwanath Temple - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What university is located in Varanasi?",
+        "source_hit": true,
+        "keyword_score": 1.0,
+        "retrieved_sources": [
+          "Varanasi - Wikipedia.pdf",
+          "Varanasi - Wikipedia.pdf",
+          "Varanasi - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What is Sarnath famous for in Buddhism?",
+        "source_hit": true,
+        "keyword_score": 0.33,
+        "retrieved_sources": [
+          "Sarnath - Wikipedia.pdf",
+          "Sarnath - Wikipedia.pdf",
+          "Varanasi - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What designs are found in Banarasi sari?",
+        "source_hit": true,
+        "keyword_score": 0.0,
+        "retrieved_sources": [
+          "Banarasi sari - Wikipedia.pdf",
+          "Banarasi sari - Wikipedia.pdf",
+          "Banarasi sari - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What is the religious significance of the Ganges in Varanasi?",
+        "source_hit": true,
+        "keyword_score": 0.33,
+        "retrieved_sources": [
+          "Varanasi - Wikipedia.pdf",
+          "Varanasi - Wikipedia.pdf",
+          "Varanasi - Wikipedia.pdf"
+        ]
+      },
+      {
+        "question": "What archaeological findings were made at Sarnath?",
+        "source_hit": true,
+        "keyword_score": 0.67,
+        "retrieved_sources": [
+          "Sarnath - Wikipedia.pdf",
+          "Sarnath - Wikipedia.pdf",
+          "Sarnath - Wikipedia.pdf"
+        ]
+      }
+    ]
+  }
+]

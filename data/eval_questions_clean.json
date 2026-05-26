@@ -1,0 +1,362 @@
+[
+  {
+    "question": "What is the Dashashwamedh Ghat known for?",
+    "expected_source": "Varanasi - Wikipedia.pdf",
+    "expected_keywords": [
+      "Dashashwamedh",
+      "ghat",
+      "main"
+    ],
+    "reference": "The Dashashwamedh Ghat is one of the notable ghats in Varanasi, known for its steps leading down the steep river bank to the water."
+  },
+  {
+    "question": "What are the four varieties of Banarasi sari?",
+    "expected_source": "Banarasi sari - Wikipedia.pdf",
+    "expected_keywords": [
+      "Katan",
+      "Organza",
+      "Georgette",
+      "Shattir"
+    ],
+    "reference": "The four main varieties of Banarasi sari are: \n\n1. Pure silk (Katan)\n2. Organza (Kora) with Zari and silk\n3. Georgette\n4. Shattir"
+  },
+  {
+    "question": "Where did Buddha give his first sermon?",
+    "expected_source": "Sarnath - Wikipedia.pdf",
+    "expected_keywords": [
+      "Sarnath",
+      "sermon",
+      "Buddha"
+    ],
+    "reference": "Gautama Buddha gave his first teaching, known as The First Turning of the Wheel of Dharma, in Sarnath."
+  },
+  {
+    "question": "What river flows through Varanasi?",
+    "expected_source": "Varanasi - Wikipedia.pdf",
+    "expected_keywords": [
+      "Ganges",
+      "Ganga"
+    ],
+    "reference": "The Ganges river flows through Varanasi."
+  },
+  {
+    "question": "What is zari in Banarasi weaving?",
+    "expected_source": "Banarasi sari - Wikipedia.pdf",
+    "expected_keywords": [
+      "zari",
+      "gold",
+      "silver",
+      "thread"
+    ],
+    "reference": "Zari in Banarasi weaving refers to supplementary weft brocade, typically made of gold-wrapped silk yarn."
+  },
+  {
+    "question": "What is the Harishchandra Ghat used for?",
+    "expected_source": "Varanasi - Wikipedia.pdf",
+    "expected_keywords": [
+      "cremate",
+      "cremation",
+      "dead"
+    ],
+    "reference": "The Harishchandra Ghat is used for cremation, specifically for Hindus to cremate their dead."
+  },
+  {
+    "question": "What is the GI tag for Banarasi sari?",
+    "expected_source": "Banarasi sari - Wikipedia.pdf",
+    "expected_keywords": [
+      "geographical indication",
+      "GI",
+      "UNCTAD"
+    ],
+    "reference": "The GI tag for Banarasi products is for the \"Banaras Brocades and saris\"."
+  },
+  {
+    "question": "What are the Buddhist pilgrimage sites mentioned in Sarnath?",
+    "expected_source": "Sarnath - Wikipedia.pdf",
+    "expected_keywords": [
+      "pilgrimage",
+      "Buddhist",
+      "Digha Nikaya"
+    ],
+    "reference": "The Buddhist pilgrimage sites mentioned in Sarnath are Lumbini, Bodh Gaya, and Kushinagar."
+  },
+  {
+    "question": "What causes pollution in the Ganges river?",
+    "expected_source": "Varanasi - Wikipedia.pdf",
+    "expected_keywords": [
+      "pollution",
+      "chemical",
+      "Ganges"
+    ],
+    "reference": "The pollution of the Ganges river is caused by the high population density of Varanasi and the increasing number of tourists, leading to sewage, sanitation, and drainage issues."
+  },
+  {
+    "question": "What is Kashi Vishwanath temple dedicated to?",
+    "expected_source": "Kashi Vishwanath Temple - Wikipedia.pdf",
+    "expected_keywords": [
+      "Shiva",
+      "Vishwanath",
+      "temple"
+    ],
+    "reference": "The Kashi Vishwanath Temple is dedicated to Shiva, specifically known as Vishveshwara or Vishwanath."
+  },
+  {
+    "question": "What is the Dhamek Stupa?",
+    "expected_source": "Sarnath - Wikipedia.pdf",
+    "expected_keywords": [
+      "Dhamek",
+      "stupa",
+      "Sarnath"
+    ],
+    "reference": "The Dhamek Stupa is a Buddhist monument."
+  },
+  {
+    "question": "What is the significance of Manikarnika Ghat?",
+    "expected_source": "Varanasi - Wikipedia.pdf",
+    "expected_keywords": [
+      "Manikarnika",
+      "cremation",
+      "ghat"
+    ],
+    "reference": "Manikarnika Ghat is one of the notable ghats in Varanasi, where Hindus cremate their dead."
+  },
+  {
+    "question": "What university is located in Varanasi?",
+    "expected_source": "Banaras Hindu University - Wikipedia.pdf",
+    "expected_keywords": [
+      "Banaras Hindu University",
+      "BHU"
+    ],
+    "reference": "Banaras Hindu University (BHU) is located in Varanasi."
+  },
+  {
+    "question": "What is the religious significance of the Ganges in Varanasi?",
+    "expected_source": "Varanasi - Wikipedia.pdf",
+    "expected_keywords": [
+      "religious",
+      "sacred",
+      "holy"
+    ],
+    "reference": "The Ganges has significant religious importance in Varanasi due to its prominence as a symbol of the city."
+  },
+  {
+    "question": "What archaeological findings were made at Sarnath?",
+    "expected_source": "Sarnath - Wikipedia.pdf",
+    "expected_keywords": [
+      "excavation",
+      "archaeological",
+      "inscription"
+    ],
+    "reference": "Inscriptions unearthed at Sarnath in the early 20th century indicate that some of the monasteries there enjoyed royal patronage."
+  },
+  {
+    "question": "When was Banaras Hindu University established?",
+    "expected_source": "Banaras Hindu University - Wikipedia.pdf",
+    "expected_keywords": [
+      "1916",
+      "established",
+      "founded"
+    ],
+    "reference": "Banaras Hindu University was established in 1916 through the Banaras Hindu University Act. It was centralised in 1916, marking its establishment as India's first central university."
+  },
+  {
+    "question": "Who founded Banaras Hindu University?",
+    "expected_source": "Banaras Hindu University - Wikipedia.pdf",
+    "expected_keywords": [
+      "Madan Mohan Malaviya",
+      "Annie Besant"
+    ],
+    "reference": "Banaras Hindu University was founded in 1916."
+  },
+  {
+    "question": "What is the Benares gharana known for in music?",
+    "expected_source": "Benares gharana - Wikipedia.pdf",
+    "expected_keywords": [
+      "tabla",
+      "gharana",
+      "Banaras"
+    ],
+    "reference": "The Benares gharana, also known as the Benares baj or style, is known for its versatility in tabla playing, allowing it to perform both delicately and aggressively. It is capable of solo performances and accompaniment to various forms of music or dance."
+  },
+  {
+    "question": "What is the origin of the Sanskrit language?",
+    "expected_source": "Sanskrit - Wikipedia.pdf",
+    "expected_keywords": [
+      "Indo-European",
+      "ancient",
+      "Sanskrit"
+    ],
+    "reference": "The origin of the Sanskrit language is unclear, but according to Thomas Burrow, it may possibly be in what is now Central or Eastern Europe."
+  },
+  {
+    "question": "What are the main features of Hindustani classical music?",
+    "expected_source": "Hindustani classical music - Wikipedia.pdf",
+    "expected_keywords": [
+      "raga",
+      "tala",
+      "classical"
+    ],
+    "reference": "The main features of Hindustani classical music are the use of melodic musical modes or ragas and rhythmic cycles or talas, with no concept of harmony. It is a melodic form of music."
+  },
+  {
+    "question": "What is the Ramnagar Fort used for today?",
+    "expected_source": "Ramnagar Fort - Wikipedia.pdf",
+    "expected_keywords": [
+      "Ramnagar",
+      "fort",
+      "museum"
+    ],
+    "reference": "The Ramnagar Fort is used as a museum, specifically known as Saraswati Bhawan."
+  },
+  {
+    "question": "What is the Tulsi Manas Mandir dedicated to?",
+    "expected_source": "Tulsi Manas Mandir - Wikipedia.pdf",
+    "expected_keywords": [
+      "Rama",
+      "Tulsidas",
+      "temple"
+    ],
+    "reference": "The Tulsi Manas Mandir is dedicated to Rama, a deity in Hinduism."
+  },
+  {
+    "question": "What language family does Bhojpuri belong to?",
+    "expected_source": "Bhojpuri language - Wikipedia.pdf",
+    "expected_keywords": [
+      "Indo-Aryan",
+      "language",
+      "Bhojpuri"
+    ],
+    "reference": "is a language spoken in the Indian subcontinent. It is a member of the Indo-Aryan branch of the Indo-European language family. Bhojpuri is spoken in the states of Bihar, Jharkhand, and Uttar Pradesh in India, as well as in Nepal."
+  },
+  {
+    "question": "What are the four goals of life in Hinduism?",
+    "expected_source": "Hinduism - Wikipedia.pdf",
+    "expected_keywords": [
+      "dharma",
+      "artha",
+      "kama",
+      "moksha"
+    ],
+    "reference": "The four proper goals of human life in Hinduism are referred to as Purusartha."
+  },
+  {
+    "question": "What is Sanskrit's role in Indian classical literature?",
+    "expected_source": "Sanskrit - Wikipedia.pdf",
+    "expected_keywords": [
+      "literature",
+      "classical",
+      "Vedas"
+    ],
+    "reference": "Sanskrit is the language of Indian classical literature, having emerged in a refined and standardized grammatical form in the mid-1st millennium BCE. It interacted with and influenced other ancient languages of the subcontinent, including Dravidian languages."
+  },
+  {
+    "question": "What gharana style does tabla playing in Varanasi follow?",
+    "expected_source": "Benares gharana - Wikipedia.pdf",
+    "expected_keywords": [
+      "tabla",
+      "Varanasi",
+      "style"
+    ],
+    "reference": "The gharana style of tabla playing in Varanasi is known as the Benares baj or style."
+  },
+  {
+    "question": "What are the sacred texts of Hinduism?",
+    "expected_source": "Hinduism - Wikipedia.pdf",
+    "expected_keywords": [
+      "Vedas",
+      "Upanishads",
+      "sacred"
+    ],
+    "reference": "The sacred texts of Hinduism are the Vedas."
+  },
+  {
+    "question": "What is the Ramcharitmanas and who wrote it?",
+    "expected_source": "Tulsi Manas Mandir - Wikipedia.pdf",
+    "expected_keywords": [
+      "Tulsidas",
+      "Ramcharitmanas",
+      "Rama"
+    ],
+    "reference": "The Ramcharitmanas is the Awadhi version of the Ramayan written in the Awadhi dialect of Hindi language. It was written by Goswami Tulsidas in the 16th century."
+  },
+  {
+    "question": "What are the main dialects of Hindi?",
+    "expected_source": "Hindi - Wikipedia.pdf",
+    "expected_keywords": [
+      "dialect",
+      "Braj",
+      "Awadhi"
+    ],
+    "reference": "The two main dialects of Hindi are Standard Hindi and Fiji Hindi. Fiji Hindi traces its origins to the Awadhi dialect, while Standard Hindi is the official variant recognized by the constitution."
+  },
+  {
+    "question": "What is the significance of the Kashi corridor project?",
+    "expected_source": "Kashi Vishwanath Temple - Wikipedia.pdf",
+    "expected_keywords": [
+      "corridor",
+      "Kashi",
+      "Vishwanath"
+    ],
+    "reference": "The Kashi Vishwanath corridor project is a completed infrastructure development project initiated by Prime Minister Narendra Modi, enhancing access to the Kashi Vishwanath Temple in Varanasi."
+  },
+  {
+    "question": "What is the Indo-European language tree and where does Sanskrit sit?",
+    "expected_source": "Sanskrit - Wikipedia.pdf",
+    "expected_keywords": [
+      "Indo-European",
+      "Proto",
+      "Sanskrit"
+    ],
+    "reference": "The Indo-European language tree is a hypothetical family tree representing the relationships between languages that descended from a common ancestral language. Sanskrit is a member of the Old Indo-Aryan branch, which is a subgroup of the Indo-European language family."
+  },
+  {
+    "question": "What is the history of Ramnagar Fort?",
+    "expected_source": "Ramnagar Fort - Wikipedia.pdf",
+    "expected_keywords": [
+      "Ramnagar",
+      "Kashi Naresh",
+      "18th century"
+    ],
+    "reference": "The Ramnagar Fort was built in 1750 by Balwant Singh. It is a fortification located in Ramnagar, Varanasi, India, near the Ganges River."
+  },
+  {
+    "question": "What are the main institutions at Banaras Hindu University?",
+    "expected_source": "Banaras Hindu University - Wikipedia.pdf",
+    "expected_keywords": [
+      "institute",
+      "faculty",
+      "department"
+    ],
+    "reference": "The main institutions mentioned in the context are the University Extension Lectures and the Central Hindu School."
+  },
+  {
+    "question": "What is moksha in Hindu philosophy?",
+    "expected_source": "Hinduism - Wikipedia.pdf",
+    "expected_keywords": [
+      "moksha",
+      "liberation",
+      "soul"
+    ],
+    "reference": "In Hindu philosophy, moksha is the state of liberation or release from the cycle of life and death, also referred to as erlife. It is considered the ultimate goal in theistic schools of Hinduism."
+  },
+  {
+    "question": "What is the tala system in Hindustani music?",
+    "expected_source": "Hindustani classical music - Wikipedia.pdf",
+    "expected_keywords": [
+      "tala",
+      "rhythm",
+      "beats"
+    ],
+    "reference": "The tala system in Hindustani music refers to a rhythmic cycle, which is a fundamental principle in both Hindustani and Carnatic classical music. It is used in conjunction with a melodic musical mode or raga. The tala system is a key element in Hindustani music, with no concept of harmony."
+  },
+  {
+    "question": "What is the role of Sanskrit in modern Indian languages?",
+    "expected_source": "Sanskrit - Wikipedia.pdf",
+    "expected_keywords": [
+      "modern",
+      "influence",
+      "Indian languages"
+    ],
+    "reference": "Sanskrit is the language for some key literary works and theology of heterodox schools of Indian philosophies such as Buddhism and Jainism."
+  }
+]
